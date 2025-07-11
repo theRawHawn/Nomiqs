@@ -6,9 +6,9 @@ export default function AboutSection() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">About LedgerWise</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">About TaxNBooks</h2>
             <p className="text-lg text-gray-600 mb-6">
-              Established in 2025, LedgerWise is a modern accounting firm dedicated to serving the unique needs of businesses in Tier 2 and Tier 3 cities across India. We understand that growing businesses need reliable, affordable, and professional accounting services.
+              Established in 2025, TaxNBooks is a modern accounting firm dedicated to serving the unique needs of businesses in Tier 2 and Tier 3 cities across India. We understand that growing businesses need reliable, affordable, and professional accounting services.
             </p>
             <p className="text-lg text-gray-600 mb-6">
               Our team specializes in working with retailers, traders, service providers, and MSMEs who need comprehensive accounting support without the complexity and high costs of traditional accounting firms.

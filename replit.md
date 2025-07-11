@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a full-stack web application built for LedgerWise, an accounting firm serving businesses in Tier 2 and Tier 3 cities across India. The application is a modern single-page marketing website with contact form functionality, built using React/TypeScript frontend and Express.js backend.
+This is a full-stack web application built for TaxNBooks, an accounting firm serving businesses in Tier 2 and Tier 3 cities across India. The application is a modern single-page marketing website with contact form functionality, built using React/TypeScript frontend and Express.js backend.
 
 ## User Preferences
 

@@ -11,7 +11,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="md:col-span-1">
-            <h3 className="text-2xl font-bold mb-4">LedgerWise</h3>
+            <h3 className="text-2xl font-bold mb-4">TaxNBooks</h3>
             <p className="text-gray-300 mb-4">
               Simplifying accounting and powering growth for businesses in Tier 2 and Tier 3 cities across India.
             </p>
@@ -135,7 +135,7 @@ export default function Footer() {
                   <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"/>
                   <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"/>
                 </svg>
-                info@ledgerwise.com
+                info@taxnbooks.com
               </li>
               <li className="flex items-center">
                 <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
@@ -148,7 +148,7 @@ export default function Footer() {
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
-          <p className="text-gray-300">&copy; 2025 LedgerWise. All rights reserved.</p>
+          <p className="text-gray-300">&copy; 2025 TaxNBooks. All rights reserved.</p>
         </div>
       </div>
     </footer>

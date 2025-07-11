@@ -17,7 +17,7 @@ export default function HeroSection() {
             <span className="text-primary-600">Powering Growth.</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-            LedgerWise handles your GST, TDS, Payroll, and Full Accounting — so you focus on your business.
+            TaxNBooks handles your GST, TDS, Payroll, and Full Accounting — so you focus on your business.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 

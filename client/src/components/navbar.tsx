@@ -19,7 +19,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <h1 className="text-2xl font-bold text-primary-600">LedgerWise</h1>
+              <h1 className="text-2xl font-bold text-primary-600">TaxNBooks</h1>
             </div>
           </div>
           
